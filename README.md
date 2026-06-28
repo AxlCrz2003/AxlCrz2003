@@ -1,20 +1,5 @@
 <!-- Banner -->
-<div align="center">
-<svg width="800" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="180" fill="#0D1B2A"/>
-  <rect width="8" height="180" fill="#8B1A1A"/>
-  <polyline points="0,140 80,110 160,125 240,85 320,100 400,60 480,78 560,45 640,58 720,30 800,42" fill="none" stroke="#4A90D9" stroke-width="2" opacity="0.4"/>
-  <polyline points="0,160 80,148 160,153 240,135 320,142 400,120 480,130 560,108 640,118 720,95 800,105" fill="none" stroke="#4A90D9" stroke-width="1" opacity="0.25"/>
-  <circle cx="400" cy="60" r="4" fill="#4A90D9" opacity="0.6"/>
-  <circle cx="560" cy="45" r="4" fill="#4A90D9" opacity="0.6"/>
-  <circle cx="720" cy="30" r="4" fill="#4A90D9" opacity="0.6"/>
-  <text x="40" y="80" font-family="Georgia,serif" font-size="36" font-weight="bold" fill="#FFFFFF">Axel López Cruz</text>
-  <line x1="40" y1="95" x2="500" y2="95" stroke="#8B1A1A" stroke-width="1.5"/>
-  <text x="40" y="118" font-family="Arial,sans-serif" font-size="14" fill="#A8C4E0">Economía · UNAM</text>
-  <text x="40" y="142" font-family="Arial,sans-serif" font-size="12" fill="#C8D8E8">Demand Planning  |  Análisis de Datos  |  Power BI · Python · Excel  |  Supply Chain</text>
-  <text x="40" y="164" font-family="Arial,sans-serif" font-size="11" fill="#4A90D9" letter-spacing="1">ECONOMISTA EN FORMACIÓN  ·  PLANEACIÓN Y SEGUIMIENTO</text>
-</svg>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Axel%20L%C3%B3pez%20Cruz&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Economist%20%7C%20Data%20Analysis%20%7C%20Demand%20Planning&descAlignY=58&descColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <br>
 
