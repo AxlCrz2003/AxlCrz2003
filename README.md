@@ -1,7 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=200&section=header&text=Axel%20López%20Cruz&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Economist%20%7C%20Data%20Analysis%20%7C%20Demand%20Planning&descAlignY=58&descColor=A8C4E0" width="100%"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Axel%20L%C3%B3pez%20Cruz&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Economist%20%7C%20Data%20Analysis%20%7C%20Demand%20Planning&descAlignY=58&descColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <br>
 
