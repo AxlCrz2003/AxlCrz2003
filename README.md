@@ -8,7 +8,7 @@
 <!-- Intro -->
 ## 👋 Hola, soy Axel
 
-Soy estudiante de **Economía en la UNAM** con más de 10 meses de experiencia práctica en **Demand Planning** en Vantive (Baxter International), empresa multinacional del sector salud.
+Soy estudiante de **Economía en la UNAM** con más de 11 meses de experiencia práctica en **Demand Planning** en Vantive (Baxter International), empresa multinacional del sector salud.
 
 Me especializo en el análisis de datos aplicado a la economía y los negocios — desde modelos de pronóstico de demanda hasta optimización de portafolios financieros.
 
@@ -19,7 +19,7 @@ Me especializo en el análisis de datos aplicado a la economía y los negocios �
 
 ```python
 axel = {
-    "educacion"    : "Licenciatura en Economía — UNAM (Promedio: 8.2)",
+    "educacion"    : "Licenciatura en Economía — UNAM",
     "experiencia"  : "Demand Planning @ Vantive (Baxter International)",
     "enfoque"      : ["Análisis de datos", "Forecasting", "Supply Chain", "Macroeconomía"],
     "herramientas" : ["Python", "Power BI", "Excel (Power Query · Power Pivot)", "SQL"],
