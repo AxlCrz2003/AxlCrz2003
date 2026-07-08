@@ -52,10 +52,9 @@ axel = {
 
 | Proyecto | Descripción | Herramientas |
 |---|---|---|
-| 🔵 [Forecasting Models — Demand Planning](https://github.com/AxlCrz2003/Forecasting-Models-Demand-Python) | Modelos de pronóstico de demanda: media móvil, suavizamiento exponencial, regresión lineal y ARIMA | Python · Pandas · Statsmodels |
 | 🟡 Optimización de Portafolio *(próximamente)* | Modelo Markowitz, CAPM, Sharpe Ratio, VaR y CVaR con datos reales de mercado | Python · yfinance · NumPy |
 | 🔴 Análisis de Expectativas de Inflación *(próximamente)* | Anclaje de expectativas inflacionarias vs decisiones de política monetaria de Banxico | Python · API Banxico · Matplotlib |
-
+| 🔵 [Forecasting Models — Demand Planning](https://github.com/AxlCrz2003/Forecasting-Models-Demand-Python) | Modelos de pronóstico de demanda: media móvil, suavizamiento exponencial, regresión lineal y ARIMA | Python · Pandas · Statsmodels |
 <br>
 
 <!-- GitHub Stats -->
